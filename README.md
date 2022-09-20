@@ -1,2 +1,0 @@
-# ast-grep
-placeholder
